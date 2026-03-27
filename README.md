@@ -2,15 +2,13 @@
 ### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Eng-Abdelrahman-Ismail&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=tokyonight" alt="Top Langs" />
+
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=Eng-Abdelrahman-Ismail&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 🚀 About Me
