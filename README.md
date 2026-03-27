@@ -1,7 +1,7 @@
 # Hi, I'm Abdelrahman Elhusein ⚡
-### Electrical Engineering Student | Communications & Electronics | Full-Stack Learner
+### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
 
-<p align="left">
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Abdelrahman-Ismail&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
@@ -9,19 +9,19 @@
 ---
 
 ### 🚀 About Me
-- 🎓 4th-year **Electrical Engineering** student at the Higher Institute of Engineering & Technology, Sohag.
-- 🧠 Graduation Project: **Face and Voice Attendance System** (AI & IoT).
-- 📱 Mobile App Developer (Flutter/Dart).
-- 🌐 Frontend Web Developer.
+- 🎓 4th-year **Electrical Engineering** student (Communications & Electronics).
+- 🛠️ Currently working on my **Graduation Project**: Face and Voice Attendance System (AI & IoT).
+- 📱 Passionate about **Mobile Apps** (Flutter/Dart) and **Web Development**.
 - 🛠️ Skilled in **SolidWorks** for 3D Modeling and **MATLAB** for engineering analysis.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-**Programming & Frameworks:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Engineering & Hardware:**
+**📲 Web & Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**🔧 Engineering & Hardware**
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED191F?style=for-the-badge&logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
@@ -31,6 +31,16 @@
 
 ---
 
-### 📫 Let's Connect:
+### 📊 GitHub Readme Streak
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.app/?user=Eng-Abdelrahman-Ismail&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Abdelrahman-Elhusein) 
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://eng-abdelrahman-ismail.github.io/Abdelrahman-Ismail-Dev/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdelrahmanelhuseinismail@gmail.com)
+
+Crafted with ❤️ by Eng. Abdelrahman
