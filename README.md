@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=visual_studio_code&locale=en" alt="Top Langs" />
 </p>
 
-
----
 ---
 
 ### 🚀 About Me
