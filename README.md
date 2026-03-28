@@ -8,14 +8,6 @@
 
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Eng-Abdelrahman-Ismail&theme=tokyonight" alt="trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
