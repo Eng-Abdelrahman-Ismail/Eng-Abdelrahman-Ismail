@@ -52,19 +52,6 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 * **Car Charger Prototype:** A power electronics project focused on stable voltage output.
 * **Smart Water Dispenser:** Automation project using proximity sensors.
 
----
-
-## 📬 Connect with Me
-* **LinkedIn:** [Abdelrahman Elhusein](https://www.linkedin.com/in/abdulrahman-elhussein-ismail-b66065374)
-* **Email:** abdelrhmanelhuseinismail@gmail.com
-
----
-*Crafted with ❤️ by Eng. Abdelrahman*
-
-* **GitHub:** [Eng-Abdelrahman-Ismail](https://github.com/Eng-Abdelrahman-Ismail)
-* **Location:** Sohag, Egypt 🇪🇬
-
-
 
 ---
 
@@ -87,6 +74,12 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Abdelrahman-Elhusein) 
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://eng-abdelrahman-ismail.github.io/Abdelrahman-Ismail-Dev/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdelrahmanelhuseinismail@gmail.com)
+
+* **LinkedIn:** [Abdelrahman Elhusein](https://www.linkedin.com/in/abdulrahman-elhussein-ismail-b66065374)
+* **Email:** abdelrhmanelhuseinismail@gmail.com
+---
+* **GitHub:** [Eng-Abdelrahman-Ismail](https://github.com/Eng-Abdelrahman-Ismail)
+* **Location:** Sohag, Egypt 🇪🇬
 
 ---
 *The best way to predict the future is to create it.*
