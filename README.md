@@ -89,7 +89,7 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdelrahmanelhuseinismail@gmail.com)
 
 ---
-*"The best way to predict the future is to create it."*
+*The best way to predict the future is to create it.*
 ---
 Crafted with ❤️ by Eng. Abdelrahman
 
