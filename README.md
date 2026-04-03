@@ -64,8 +64,6 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 * **GitHub:** [Eng-Abdelrahman-Ismail](https://github.com/Eng-Abdelrahman-Ismail)
 * **Location:** Sohag, Egypt 🇪🇬
 
----
-*"The best way to predict the future is to create it."*
 
 
 ---
@@ -90,4 +88,8 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://eng-abdelrahman-ismail.github.io/Abdelrahman-Ismail-Dev/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdelrahmanelhuseinismail@gmail.com)
 
+---
+*"The best way to predict the future is to create it."*
+---
 Crafted with ❤️ by Eng. Abdelrahman
+
