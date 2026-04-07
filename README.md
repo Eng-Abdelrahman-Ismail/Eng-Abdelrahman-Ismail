@@ -31,6 +31,10 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 
 ---
 
+### 🎓 Certifications
+![CCNA](https://img.shields.io/badge/CCNA-0077C5?style=for-the-badge&logo=cisco&logoColor=white) ![HCA-AI](https://img.shields.io/badge/HCA--AI-FFC107?style=for-the-badge&logo=huawei&logoColor=black) ![HCIA-Security](https://img.shields.io/badge/HCIA--Security-000000?style=for-the-badge&logo=huawei&logoColor=white)
+
+---
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Web Development
@@ -62,11 +66,6 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 * **Smart Water Dispenser:** Automation project using proximity sensors.
 
 
-
----
-
-### 🎓 Certifications
-![CCNA](https://img.shields.io/badge/CCNA-0077C5?style=for-the-badge&logo=cisco&logoColor=white) ![HCA-AI](https://img.shields.io/badge/HCA--AI-FFC107?style=for-the-badge&logo=huawei&logoColor=black) ![HCIA-Security](https://img.shields.io/badge/HCIA--Security-000000?style=for-the-badge&logo=huawei&logoColor=white)
 
 ---
 
