@@ -1,5 +1,5 @@
-# Hi, I'm Abdelrahman Elhusein ⚡
-### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
+  # Hi, I'm Abdelrahman Elhusein ⚡
+ ### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eng-Abdelrahman-Ismail&show_icons=true&theme=visual_studio_code&locale=en" alt="GitHub Stats" />  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=visual_studio_code&locale=en" alt="Top Langs" />
@@ -7,7 +7,7 @@
 
 
 ---
-# 🚀 Professional Engineering Portfolio | Abdelrahman Elhusein
+# 🚀 Professional Engineering Portfolio | Abdelrahman Elhusein Ismail
 
 ### 🎓 About Me
 I am a **Communications and Electronics Engineering** student at the Higher Institute of Engineering and Technology in Sohag. I'm passionate about building innovative solutions using technology, ranging from embedded systems to mobile applications.
