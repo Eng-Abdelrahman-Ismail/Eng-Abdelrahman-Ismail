@@ -21,6 +21,15 @@ I am a **Communications and Electronics Engineering** student at the Higher Inst
 Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ismail.github.io/Abdelrahman-Ismail-Dev/)**
 
 ---
+### 🛠 Tech Stack & Tools
+
+**📲 Web & Mobile Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**🔧 Engineering & Hardware**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED191F?style=for-the-badge&logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -53,15 +62,6 @@ Check out my live portfolio here: **[View Portfolio](https://eng-abdelrahman-ism
 * **Smart Water Dispenser:** Automation project using proximity sensors.
 
 
----
-
-### 🛠 Tech Stack & Tools
-
-**📲 Web & Mobile Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**🔧 Engineering & Hardware**
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED191F?style=for-the-badge&logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
