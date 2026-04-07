@@ -2,9 +2,9 @@
 ### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eng-Abdelrahman-Ismail&show_icons=true&theme=visual_studio_code&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=visual_studio_code&locale=en" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eng-Abdelrahman-Ismail&show_icons=true&theme=visual_studio_code&locale=en" alt="GitHub Stats" />  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eng-Abdelrahman-Ismail&layout=compact&theme=visual_studio_code&locale=en" alt="Top Langs" />
 </p>
+
 
 ---
 # 🚀 Professional Engineering Portfolio | Abdelrahman Elhusein
