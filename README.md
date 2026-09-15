@@ -1,9 +1,7 @@
   # Hi, I'm Abdelrahman Elhusein ⚡
  ### Electrical Engineering Senior | Frontend Dev | Flutter Enthusiast
-
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Abdelrahman-Ismail&theme=tokyonight&hide_border=true&card_width=450" alt="Streak Stats" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Eng-Abdelrahman-Ismail&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Abdelrahman-Ismail&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 
